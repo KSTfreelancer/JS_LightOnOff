@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+img{
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+  margin: auto;
+  display: block;
+}
+.btn{
+  height: 50px;
+  width: 100px;
+  background-color: aqua;
+  line-height: 50px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+#btn-on{
+  float: left;
+}
+#btn-off{
+  float: right;
+}
